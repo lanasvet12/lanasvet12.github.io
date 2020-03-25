@@ -87,6 +87,15 @@
     font-family: 'Akrobat';
 }
 
+a.text-logo, a.text-logo:hover, a.text-logo:visited {
+    text-decoration: none;
+    font-size: 1.6rem;
+    line-height: 100%;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
 .content .me1,
 .content .me2,
 .content .me3 {
