@@ -68,7 +68,7 @@
 }
  hr {
     border: none; /* Убираем границу */
-    background-color: red; /* Цвет линии */
+    background-color: #fff; /* Цвет линии */
     color: #fff;
     height: 2px; /* Толщина линии */
    }
