@@ -91,6 +91,9 @@
     color: #333;
     font-family: 'Akrobat';
 }
+#header{
+    min-height: 750px!important;
+}
 
 a.text-logo, a.text-logo:hover, a.text-logo:visited {
     text-decoration: none;
